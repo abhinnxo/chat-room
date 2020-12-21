@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 View  a Live demo of the app here: https://react-chat-app-21.web.app/
 
 ## Video Demo
+Click on the Image to see a Video on YouTube:
 
 [<img src="./chat-app-thumb.png">](https://youtu.be/pggcXwEVtWU)
 
