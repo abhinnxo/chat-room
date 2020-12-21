@@ -1,0 +1,26 @@
+.login-container {
+    position: relative;
+    margin: 0 10rem;
+    text-align: center;
+}
+.login-container h1 {
+    color: #1e1e1e;
+    margin-top: 10rem;
+}
+.login-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.login-button {
+    position: relative;
+    margin-top: 5rem;
+    background-color: coral;
+    color: white;
+    font-size: 1rem;
+    font-weight: bolder;
+    padding: 0.5rem 1rem;
+    border-radius: 25px;
+    cursor: pointer;
+}

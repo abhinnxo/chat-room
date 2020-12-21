@@ -1,0 +1,37 @@
+.message__guest {
+  max-width: 400px;
+  max-height: fit-content;
+  color: white;
+  background-color: #1e1e1e;
+  margin-right: auto;
+}
+.message__user {
+  max-width: 400px;
+  height: fit-content;
+  overflow: visible;
+  color: white;
+  background-color: limegreen;
+  margin-left: auto !important;
+}
+
+/* Message Bubble */
+.message_bubble {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50vw;
+  max-height: fit-content;
+  padding: 0.5rem;
+}
+.message_bubble div {
+  border-radius: 1rem;
+
+}
+
+.message_bubble p {
+  margin-left: 5px;
+  padding: 5px;
+}
+.message_bubble h3 {
+  margin-left: 10px;
+  padding: 5px;
+}

@@ -1,0 +1,53 @@
+body {
+    height: 50%;
+}
+nav {
+    position: sticky;
+    display: flex;
+    top: 0;
+    height: fit-content;
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    background-color: coral;
+    box-shadow: 1px 1px 5px grey;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+.chatbox {
+    position: sticky;
+    text-align: center;
+    bottom: 0;
+    height: fit-content;
+    width: 100%;
+    background-color: rgb(218, 218, 218);
+    padding: 0.5rem;
+}
+.chatbox input {
+    padding: 10px;
+    border-radius: 1rem;
+    width: 400px;
+}
+.chatbox button {
+    margin-left: 5px;
+    width: 100px;
+    border-radius: 1rem;
+    padding: 10px;
+    color: white;
+    background-color: coral;
+}
+.logout {
+    background-color: #fff;
+    color: coral;
+    border-radius: 1rem;
+    font-weight: bolder;
+    padding: 10px;
+    cursor: pointer;
+}
+.title-button {
+    margin-left: auto;
+    margin-right: 1.5rem;
+}
+.title-div {
+    margin-left: auto;
+}
