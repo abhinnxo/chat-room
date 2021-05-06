@@ -19,26 +19,6 @@ function Login() {
         console.log("AUTH ERROR!", error);
       });
   }
-
-  // firebase
-  //   .auth()
-  //   .getRedirectResult()
-  //   .then(function (result) {
-  //     // The signed-in user info.
-  //     var user = result.user;
-  //     console.log(user);
-  //   })
-  //   .catch(function (error) {
-  //    console.log("AUTH ERROR", erroe)
-  //   });
-
-  // function googleSignout() {
-  //   firebase.auth().signOut();
-  //   document.querySelector(".signout-button").style.display = "none";
-  //   document.querySelector(".login-button").style.display = "block";
-  //   console.log("AUTH", firebase.auth());
-  // }
-
   return (
     <div className="login-container">
       <h1>CHAT ROOM</h1>
